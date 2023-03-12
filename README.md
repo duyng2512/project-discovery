@@ -1,1 +1,1 @@
-# project-discovery
+# Repository list of projects
